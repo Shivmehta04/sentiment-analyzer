@@ -1,0 +1,61 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Streamlit config cache
+
+.streamlit/
+
+# Environment variables
+
+.env
+
+# Logs and temp files
+
+*.log
+*.tmp
+*.swp
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+
+.vscode/
+.idea/
+
+# Build files
+
+build/
+dist/
+*.egg-info/
+
+# Test / coverage
+
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Data files (optional - remove if needed)
+
+# data/*.csv
+
+# Model files (optional - keep if required for app)
+
+# model/*.pkl
+
+# model/*.joblib
