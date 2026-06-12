@@ -60,7 +60,7 @@ sentiment-analyzer/
 ### 1️⃣ Clone the repository
 
 ```
-git clone [https://github.com/Shivmehta04/sentiment-analyzer.git](https://github.com/Shivmehta04/sentiment-analyzer)
+git clone https://github.com/Shivmehta04/sentiment-analyzer.git
 cd sentiment-analyzer
 ```
 
