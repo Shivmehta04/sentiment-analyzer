@@ -6,7 +6,7 @@ A Machine Learning-based **Sentiment Analysis Web App** that predicts whether a 
 
 ## 🚀 Live Demo
 
-👉 [https://student-performance-application.streamlit.app](https://sentiment-analyzer-project-nlp.streamlit.app/)
+👉 (https://sentiment-analyzer-project-nlp.streamlit.app/)
 
 ---
 
@@ -60,7 +60,7 @@ sentiment-analyzer/
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/Shivmehta04/student-performance-app.git
+git clone [https://github.com/Shivmehta04/sentiment-analyzer.git](https://github.com/Shivmehta04/sentiment-analyzer)
 cd sentiment-analyzer
 ```
 
@@ -91,14 +91,6 @@ streamlit run app.py
 * Feature extraction using TF-IDF
 * Trained using classification algorithms
 * Saved model and vectorizer for reuse
-
----
-
-## 📸 Screenshots
-
-* UI Input Form
-* Prediction Output
-* Feature Importance Graph
 
 ---
 
