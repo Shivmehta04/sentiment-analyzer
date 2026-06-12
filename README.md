@@ -6,7 +6,7 @@ A Machine Learning-based **Sentiment Analysis Web App** that predicts whether a 
 
 ## 🚀 Live Demo
 
-👉 https://student-performance-application.streamlit.app
+👉 [https://student-performance-application.streamlit.app](https://sentiment-analyzer-project-nlp.streamlit.app/)
 
 ---
 
